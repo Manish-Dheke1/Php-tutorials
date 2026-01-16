@@ -48,4 +48,4 @@ To run this project, you need:
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:Manish-Dheke1/Php-tutorials.git
+   git clone https://github.com/Manish-Dheke1/Php-tutorials.git
