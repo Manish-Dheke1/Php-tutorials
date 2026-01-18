@@ -9,12 +9,11 @@ $favCol = array(
     'manish' => 'blue'
     );
 foreach ($favCol as $key => $value) {
-    echo "<br> Favourite color of $key is $value";
+    echo "The favorite color of ".$key." is ".$value."<br>";
 }
 
 
 echo $favCol['manish'];
 echo "<br>"; 
-echo $favCol['rohan'];
-  
+echo $favCol['rohan'];  
 ?>
